@@ -142,9 +142,12 @@ Since I used Microsoft Excel for predictive modeling, I made use of the expected
 ![image](https://user-images.githubusercontent.com/123303003/215908453-c34f38a3-b48f-4319-b094-4140b83f83a7.png)
 
 An example of how I calculated the probability of both teams scoring a specific number of goals in the final using the statistical function in Microsoft Excel is given below. 
+
+
 ![image](https://user-images.githubusercontent.com/123303003/215908500-99c12a13-cee5-4ec4-880d-102f870a6144.png)
 
 With the use of Poisson distribution, the probability of goals both teams are likely to score are presented in both tabular and graphical forms. 
+
 ![image](https://user-images.githubusercontent.com/123303003/215908529-c7e609a9-8227-476d-b8fb-ce8a9af603cc.png)
 
 ![image](https://user-images.githubusercontent.com/123303003/215908564-9b84836e-3a1c-470a-850e-be16df5c4f34.png)
@@ -152,6 +155,7 @@ With the use of Poisson distribution, the probability of goals both teams are li
 Using findings to understand how the match would play out:
 
 Now, to get each possible score using the findings uploaded above, I simply used Microsoft excel to multiply the probability of each possible score by France by the probability of each possible score by Argentina. After carefully executing the formula, I was able to acquire the following distribution you can see in the figure below.
+
 ![image](https://user-images.githubusercontent.com/123303003/215908634-935242bb-8b0c-48d0-9c56-aae611063b16.png)
 
 
